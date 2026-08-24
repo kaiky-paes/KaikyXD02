@@ -28,7 +28,5 @@
 
 ## Contatos
 
-<div>
   E-mail: contato.kaikypaes@gmail.com
   LinkedIn: https://www.linkedin.com/in/kaiky-sousa-paes-438a392b3/
-</div>
